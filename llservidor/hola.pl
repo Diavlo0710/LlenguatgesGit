@@ -1,2 +1,2 @@
-print "Hola,Ramis!\n";
+print "Hola, Menorca!\n";
 $_=<STDIN>;
